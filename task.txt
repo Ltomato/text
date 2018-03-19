@@ -1,2 +1,2 @@
-1£©´´½¨±¾µØµÄdev·ÖÖ§ÓëÔ¶³Ì²Ö¿âµÄdev·ÖÖ§¶ÔÓ¦¡£
-2£©Ã¿¸öÈËÔÚdevµÄtask.txtÉÏÌí¼ÓÒ»¾ä»°   ¡°ÎÒÊÇ****¡±
+1ï¼‰åˆ›å»ºæœ¬åœ°çš„devåˆ†æ”¯ä¸Žè¿œç¨‹ä»“åº“çš„devåˆ†æ”¯å¯¹åº”ã€‚
+2ï¼‰æ¯ä¸ªäººåœ¨devçš„task.txtä¸Šæ·»åŠ ä¸€å¥è¯ Â  â€œI am ****â€
