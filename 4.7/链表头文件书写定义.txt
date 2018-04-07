@@ -1,0 +1,15 @@
+链表的书写:
+要求：
+	1）创建 LinkList.h 里面定义 struct 结构体（数据类型不限）和LinkList类
+	2）创建 LinkList.cpp 实现  LinkList.h 里的方法。
+	3）方法必须有   构造函数（用来头节点空间的申请）
+			增 删 改 查 必须有
+			打印所有的节点内容
+			析构函数（delete全部节点）
+			打印所有的节点内容
+
+		class中的{
+			   private:           
+				   Node *head;
+				   //其他用得着自己加
+  			 }
