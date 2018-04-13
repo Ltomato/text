@@ -1,0 +1,5 @@
+﻿  Calculator.cpp
+c:\users\user\source\repos\calculator\calculator.h(29): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\user\source\repos\calculator\calculator.h(87): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\user\source\repos\calculator\calculator.h(89): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  Calculator.vcxproj -> C:\Users\user\source\repos\Calculator\Debug\Calculator.exe
